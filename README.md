@@ -1,7 +1,7 @@
 # venom
 ## Проект выполнил: Олег
 В проете используются:
--HTML
--CSS
--JS
--Normalize
+- HTML
+- CSS
+- JS
+- Normalize
